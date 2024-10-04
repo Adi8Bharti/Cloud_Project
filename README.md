@@ -1,4 +1,4 @@
-# MEGH_cloud
+# Project_cloud
 
 The "Cloud Resource Management Tool" is a comprehensive web application that seamlessly integrates Full Stack Web Development with Cloud services, focusing on Amazon Web Services (AWS). As one of the leading cloud platforms with a significant market share in the industry, AWS offers a wide range of services that allow companies to efficiently deliver their services and host websites without upfront expenses.  
 
